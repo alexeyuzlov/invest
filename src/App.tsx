@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './App.scss';
-import { Box, Paper, Table, TableBody, TableCell, TableHead, TableRow, TextField } from '@mui/material';
+import { Box, Table, TableBody, TableCell, TableHead, TableRow, TextField } from '@mui/material';
 import { calc, Deposit } from './calc-deposit';
 
 function App() {
